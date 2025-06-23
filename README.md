@@ -74,6 +74,6 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 ---
 
-**Geliştirici:** [Your Name]  
-**E-posta:** [your.email@example.com]  
-**GitHub:** [github.com/yourusername]
+**Geliştirici:** [Mert KAYAR]  
+**E-posta:** [mertkayar120@gmail.com]  
+**GitHub:** [github.com/MertKAYAR]
